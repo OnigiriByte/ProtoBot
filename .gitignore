@@ -1,0 +1,4 @@
+.venv
+.token
+.env
+__pycache__
