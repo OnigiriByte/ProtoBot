@@ -1,6 +1,6 @@
 # ProtoBot
 
-This project serves as a learning endeavor, where we explore the world of building Discord bots using Python and chosen libraries. 🤖✨ 
+This project serves as a learning endeavor, where we explore/dive into developing Discord bots, adding features we find useful or entertaining using Python and chosen libraries. 🤖✨ 
 
 
 
